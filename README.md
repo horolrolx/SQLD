@@ -1,7 +1,7 @@
 # SQLD - 자격증 공부
 
 ## 1과목
-- [데이터모델의 이해.md](https://github.com/xoxlo/SQLD/blob/main/1%EA%B3%BC%EB%AA%A9/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
+- [데이터 모델링의 이해](https://github.com/xoxlo/SQLD/blob/main/1%EA%B3%BC%EB%AA%A9/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
 - [데이터 모델과 SQL](https://github.com/xoxlo/SQLD/blob/main/1%EA%B3%BC%EB%AA%A9/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20SQL.md)
 ## 2과목
 - [추가예정]
